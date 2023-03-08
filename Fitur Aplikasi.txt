@@ -1,0 +1,27 @@
+#Release
+
+
+Front End : HTML, Bootstrap (Stisla Theme)
+Backend : Uinsu Web Framework (PHP >= 7) - Base php MVC tutorial pak Sandhika Galih(Web Programming Unpas)
+Javascript : Vue JS, Native Javascript, & Jquery
+Bootstrap Theme By [Stisla]
+Cloud Serverless : Firebase
+
+Library
+Axios (Resfull API Client)
+Domp PDF (Report for PDF document)
+PHP Mailer (Mail sender)
+AWS Serveless (Coming soon)
+
+Fitur
+Manajemen cucian
+Manajemen pelanggan
+Sistem promo, level user, point, & diskon
+Notifikasi status cucian ke pelanggan (default : email)
+Notifikasi ke whatsapp pelanggan (Sudah terhubung ke API waresponder, silahkan kunjungi untuk mendapatkan api key nya)
+Manajemen pengeluaran laundry
+Manajemen pembukuan laundry
+Backup & Restore data ke cloud
+Multilevel user (Administrator & Operator)
+Sistem broadcast pesan ke pelanggan (untuk promosi, pengumuman, dll)
+Print struk melalui printer thermal (Thermal Printer GP-5890XIII, Epson TM-T82, MiniPOS MP-RP58L disarankan)
